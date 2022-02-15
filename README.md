@@ -23,7 +23,7 @@
 </ol>
 <p>all the four operations have certain precondition which needed to be satisfied to perform.</p>
 <p>The effect of these operations is represented using two lists add(A) and delete(D). delete list contains predicates which will cease to be true once the operation is performed. add list contains predicates which will become true once the operation is performed.</p>
-![image](https://user-images.githubusercontent.com/84682126/153916075-b8c04b81-fb9e-4dfa-85c7-f57b55221c59.png)
+![Screenshot (2103)](https://user-images.githubusercontent.com/84682126/154082691-093bf08c-2fc4-4bb8-9b8c-455900723a3c.png)
 <p><b>Algorithm:</b></p>
 <pre>
 Push the Goal state in to the Stack
